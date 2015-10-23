@@ -1,6 +1,6 @@
 # Wall, the actual front page of the internet?
 
-Wall relies on a Chrome Extension. Having this Extension allows one to turn Google's homepage into what it has always been, the most prominent neighborhood-wallfront in the global village. What good is a wall without graffiti?
+Wall relies on a chrome-extension. Having this 'extension' allows one to turn Google's homepage into what it has always been, the most prominent neighborhood-wallfront in the global village. What good is a wall without graffiti?
 
 Wall's civic rehabilitation of Google's homepage is ensured by two modes of user-experience:
 
